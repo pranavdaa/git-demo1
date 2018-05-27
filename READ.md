@@ -1,2 +1,2 @@
 #this is a demo
-this id the first repositry i have ever made
+this is my first time on github this is a tryal and not a real project so dont take it seriously and also dont laugh on it #XD.
